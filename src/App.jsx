@@ -1,5 +1,6 @@
 import React, { Component } from "react";
 import JokeList from "./JokeList";
+import "./App.css";
 
 /** App component. Renders list of jokes. */
 
